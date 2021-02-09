@@ -1,6 +1,5 @@
 ### Hi there 👋 🦀
 
-https://resume.mwzhang.com
 
 <!--
 **digizeph/digizeph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![digizeph's github stats](https://github-readme-stats.vercel.app/api?username=digizeph&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/digizeph)
+[![digizeph's github stats](https://github-readme-stats.vercel.app/api?username=digizeph&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)](https://resume.mwzhang.com)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digizeph&theme=gruvbox&hide=html,perl,css,c++,java&langs_count=10&exclude=Cong_clone,vis_project)](https://github.com/anuraghazra/github-readme-stats)
