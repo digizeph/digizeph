@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 🦀
+
+https://resume.mwzhang.com
 
 <!--
 **digizeph/digizeph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![digizeph's github stats](https://github-readme-stats.vercel.app/api?username=digizeph&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/digizeph)
